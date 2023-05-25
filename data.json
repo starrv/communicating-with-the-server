@@ -1,0 +1,19 @@
+{
+    "dogs":[
+        {
+            "id":1,
+            "name":"Snoopy",
+            "breed":"beagle",
+            "owner":"Charlie Brown",
+            "age":4,
+            "image":"https://m.media-amazon.com/images/I/51EXsjaMWXL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id":2,
+            "name":"Wishbone",
+            "breed":"terrier",
+            "age":12,
+            "image":"https://bookriot.com/wp-content/uploads/2021/10/Wishbone-1280x720.jpeg"
+        }
+    ]
+}
