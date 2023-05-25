@@ -1,0 +1,13 @@
+ul#dogs{
+    display: flex;
+    width:75%;
+    margin:1rem auto;
+}
+
+li.dog{
+    width:50%;
+    margin:1rem auto;
+    border:solid 1px black;
+    border-radius:10px;
+    box-shadow: #111 5px 5px 5px;
+}
